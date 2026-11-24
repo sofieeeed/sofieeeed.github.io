@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "me.jpg"
   name             : "Sofia Dominesey"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her/hers"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Baltimore/DC Metro Area"
   employer         : "UMBC"
@@ -64,9 +64,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/sof.ieeed"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/sofia-dominesey-863b06287/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
